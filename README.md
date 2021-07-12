@@ -17,7 +17,28 @@ text = """
 ```
 ```
 # Print a gratient text :
+gratient_text = gratient.black(text)
+print(gratient_text)
+```
+![](https://github.com/venaxyt/gratient/blob/main/images/black.PNG)
+
+```
 gratient_text = gratient.purple(text)
 print(gratient_text)
 ```
 ![](https://github.com/venaxyt/gratient/blob/main/images/purple.PNG)
+```
+gratient_text = gratient.blue(text)
+print(gratient_text)
+```
+![](https://github.com/venaxyt/gratient/blob/main/images/blue.PNG)
+```
+gratient_text = gratient.red(text)
+print(gratient_text)
+```
+![](https://github.com/venaxyt/gratient/blob/main/images/red.PNG)
+```
+gratient_text = gratient.yellow(text)
+print(gratient_text)
+```
+![](https://github.com/venaxyt/gratient/blob/main/images/yellow.PNG)
