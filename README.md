@@ -42,3 +42,6 @@ gratient_text = gratient.yellow(text)
 print(gratient_text)
 ```
 ![](https://github.com/venaxyt/gratient/blob/main/images/yellow.PNG)
+
+> ### Download : pip install gratient
+> ### Documentation : https://pypi.org/project/fade
