@@ -1,4 +1,4 @@
-> # GRATIENT
+> # GRATIENT  |  pip install gratient
 ```
 # Module made by @venaxyt on Github
 import gratient
