@@ -1,4 +1,5 @@
 > # GRATIENT
+``I know that it is gradient and not gratient but gradient name was taken x/``
 ```
 # Module made by @venaxyt on Github
 import gratient
